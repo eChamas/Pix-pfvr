@@ -25,6 +25,11 @@ h1 {
     margin-bottom: 20px;
     letter-spacing: 2px;
 }
+a{
+    font-size: 32px;
+    text-decoration: none;
+    color: #2b0e47;
+}
 @media (max-width: 600px) {
 
     h1 {
@@ -33,11 +38,19 @@ h1 {
         margin-bottom: 15px;
     }
 
+    a{
+    font-size: 22px;
+}
+
 }
 @media (max-width: 380px) {
 
     h1 {
         font-size: 22px;
     }
+
+    a{
+    font-size: 22px;
+}
 
 }
