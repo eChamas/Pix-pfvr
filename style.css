@@ -28,9 +28,7 @@ h1 {
 a{
     font-size: 32px;
     text-decoration: none;
-    color: #2b0e47;
-    width: 100%;
-    height: 10px;
+    color: #44a3e4;
 }
 @media (max-width: 600px) {
 
