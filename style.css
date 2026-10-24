@@ -25,12 +25,6 @@ h1 {
     margin-bottom: 20px;
     letter-spacing: 2px;
 }
-#contador {
-    font-size: 42px;
-    font-weight: bold;
-    letter-spacing: 1px;
-    word-wrap: break-word;
-}
 @media (max-width: 600px) {
 
     h1 {
